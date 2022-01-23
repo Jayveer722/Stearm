@@ -31,7 +31,7 @@ function Home() {
 
   return (
     <div className="App">
-      <h1 className="name">stream.me</h1>
+      <h1 className="name">streamme</h1>
       <h1 className="subhead">Be in Touch!!!</h1>
       <div className="features">
         <ListGroup>
