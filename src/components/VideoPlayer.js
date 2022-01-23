@@ -563,7 +563,7 @@ function VideoPlayer(props) {
         >
           <Modal.Header closeButton></Modal.Header>
           <ModalBody>
-            <h2 className="pad-60 header">stream.me</h2>
+            <h2 className="pad-60 header">streamme</h2>
             <form
               onSubmit={(e) => {
                 e.preventDefault();
